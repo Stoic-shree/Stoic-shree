@@ -11,13 +11,11 @@
 - 🔭 I’ve **recently completed Full Stack project: YelCamp**  
 - 👨‍💻 Check out my projects:  
   - [YelCamp](#) (link coming soon)  
-  - [Heart Disease Prediction](#) (link coming soon)  
+  - [Heart Disease Prediction](https://stoicy-heart-disease-prediction.streamlit.app/)  
 - 💬 **Strong in C++, basics of Java, Python, JavaScript, and DSA**  
 - 📫 Reach me at **shrikantalgud@gmail.com**  
 - 📄 Connect with me: [LinkedIn](https://www.linkedin.com/in/shrikant-algud-a02017277/)  
 - ⚡ Fun fact: **I love playing Chess, exploring the tech world & Gaming**  
-
----
 
 ### Languages & Tools:
 <p align="left">
