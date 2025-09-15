@@ -2,8 +2,6 @@
 <h3 align="center">4th Year Student | Full Stack Developer with interest in Agile Methodologies</h3>
 
 <br>
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=stoicy&label=Profile%20views&color=0e75b6&style=flat" alt="stoicy" />
 </p>
