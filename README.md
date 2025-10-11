@@ -8,7 +8,7 @@
 
 - 🔭 I’ve **recently completed Full Stack project: YelCamp**  
 - 👨‍💻 Check out my projects:  
-  - [YelCamp](#) (link coming soon)  
+  - [YelCamp](#) 
   - [Heart Disease Prediction](https://stoicy-heart-disease-prediction.streamlit.app/)  
 - 💬 **Strong in C++, basics of Java, Python, JavaScript, and DSA**  
 - 📫 Reach me at **shrikantalgud@gmail.com**  
