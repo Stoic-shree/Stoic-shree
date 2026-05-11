@@ -13,6 +13,7 @@
   - [Knowledge-based Agent](https://stoicy-ai.streamlit.app/)
   - [Mini-CRM](https://stoicy-crm.vercel.app/contact)
   - [Heart Disease Prediction](https://stoicy-heart-disease-prediction.streamlit.app/)
+  - [AI-Ops-Suite](https://ai-ops-suite.vercel.app/)
 - 💬 Strong in: **C++, Java (basics), Python, JavaScript, DSA**
 - 📫 Reach me at **shrikantalgud@gmail.com**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shrikant-algud-a02017277/)
